@@ -75,8 +75,6 @@ I also learned some cool new tricks, like:
 
 Something I really struggled with was the fact that my skills and my ambition are not at the same level. This project is a very scaled down of what I wanted it to be, and it took some time for me to come around to that, but I eventually did! 
 
-<br>
-
 ## For Next Time
 If I had more time and abilities, I would:
 * **Expand the scope of my dataset.** Ideally, I'd have liked to request data from karaoke places/machines about which songs people play the most. Or look at more songs from Spotify so that I'd have a larger dataset, including songs from more user-generated playlists. I'd also look at the Hot 100 weekly charts instead of the year-end ones for a more comprehensive view of commercial popularity.
