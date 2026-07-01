@@ -4,7 +4,8 @@
 1. [The Project](#the-project)
 2. [Findings](#findings)
 3. [Data Wrangling](#data-wrangling)
-4. [For Next Time](#for-next-time)
+4. [Skills and Growth](#skills-and-growth)
+5. [For Next Time](#for-next-time)
 
 ## The Project
 This project stemmed from a question I had: What makes a good karaoke song? I wanted to figure out what quantitative information I could use to find any commonalities or trends between the songs that people like singing at karaoke. <br>
