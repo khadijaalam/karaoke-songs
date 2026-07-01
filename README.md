@@ -1,21 +1,19 @@
 # What makes a good karaoke song?
 
-## Content
-
-<br>
+## Contents
+1. [The Project](#the-project)
+2. [Findings](#findings)
+3. [Data Wrangling](#data-wrangling)
+4. [For Next Time](#for-next-time)
 
 ## The Project
 This project stemmed from a question I had: What makes a good karaoke song? I wanted to figure out what quantitative information I could use to find any commonalities or trends between the songs that people like singing at karaoke. <br>
-
-<br>
 
 ## Findings
 * **Pop is the most prevalent genre.** More songs were pop songs than any other genre combined.
 * **People like older songs.** The 2000s were the decade with the most popular karaoke songs, followed by the 1990s. There are no songs from the 2020s (the most recent song in the dataset is from 2018).
 * **A song doesn't have to be a hit on the charts in order to be a popular karaoke song.** Some of the songs were hits on the charts (and some made it onto more than one year-end hot 100 chart!) but others didn't.
 * **A song doesn't necessarily require a wide vocal range in order to be a popular karaoke song**, but the two most popular karaoke songs in my dataset required the smallest vocal range.
-
-<br>
 
 ## Data Wrangling
 **[Spotify API](https://developer.spotify.com/documentation/web-api) via [spotipy](https://spotipy.readthedocs.io/en/2.26.0/)** <br>
@@ -60,8 +58,6 @@ I started manually looking at the sheet music to hand-collect this data but sinc
 I found a platform called Singing Carrots that had information on the vocal range required for songs, so in the interest of time, I collected that data for the nine songs that appeared in all popular three karaoke playlists. <br>
 
 But the vocal ranges on Singing Carrots were written in scientific pitch notation, which would be a problem when trying to create dataviz. So I wanted to convert those notes into their MIDI note number so that I ended up with raw numbers to represent the pitches. I found a page on the website for a company called Inspired Acoustics that had a handy chart for comparing different musical notation standards and manually did the conversions. <br>
-
-<br>
 
 ## Skills and Growth
 I wanted to use this project to practice and get better at:
