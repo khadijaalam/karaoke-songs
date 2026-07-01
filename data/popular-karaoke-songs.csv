@@ -1,0 +1,45 @@
+,name,count,id,artists,duration_ms,release_date,popularity,main_artist,artist1,artist2,bpm,danceability
+0,Mr. Brightside,4,7oK9VyNzrYvRFo7nQEYkWN,The Killers,222586,2004-06-15,12,The Killers,The Killers,,148,33.0
+1,Umbrella,4,2yPoXCs7BSIUrucMdK5PzV,"Rihanna, JAŸ-Z",275986,2007-01-01,80,Rihanna,Rihanna, JAŸ-Z,174,59.0
+2,Wannabe,3,1Je1IMUlBXcx1Fz0WE7oPT,Spice Girls,173026,1996-01-01,85,Spice Girls,Spice Girls,,110,77.0
+3,I Want It That Way,3,47BBI51FKFwOMlIiX6m8ya,Backstreet Boys,213306,1999-05-18,87,Backstreet Boys,Backstreet Boys,,99,69.0
+4,Livin' On A Prayer,3,37ZJ0p5Jm13JPevGcx4SkF,Bon Jovi,249293,1986-08-16,84,Bon Jovi,Bon Jovi,,122,54.0
+5,Just the Way You Are,3,7BqBn9nzAq8spo5e7cZ0dJ,Bruno Mars,220734,2010-05-11,89,Bruno Mars,Bruno Mars,,108,64.0
+6,Love Story,3,1vrd6UOGamcKNGnSHJQlSt,Taylor Swift,235266,2008-11-11,69,Taylor Swift,Taylor Swift,,117,62.0
+7,Party In The U.S.A.,3,5Q0Nhxo0l2bP3pNjpGJwV1,Miley Cyrus,202066,2009-01-01,81,Miley Cyrus,Miley Cyrus,,,
+8,Since U Been Gone,3,3xrn9i8zhNZsTtcoWgQEAd,Kelly Clarkson,188960,2004-01-17,80,Kelly Clarkson,Kelly Clarkson,,68,67.0
+9,Shallow,2,2VxeLyX666F8uXCJ0dZF8B,"Lady Gaga, Bradley Cooper",215733,2018-10-05,86,Lady Gaga,Lady Gaga, Bradley Cooper,,
+10,I Wanna Dance with Somebody (Who Loves Me),2,2tUBqZG2AbRi7Q0BIrVrEj,Whitney Houston,292875,1987-06-02,87,Whitney Houston,Whitney Houston,,117,71.0
+11,I Want You Back,2,5nbrmgPVArcTzW7bp9mhfq,The Jackson 5,179746,2013-01-10,0,The Jackson 5,The Jackson 5,,103,66.0
+12,Summer Nights - From “Grease”,2,2AVkArcfALVk2X8sfPRzya,"John Travolta, Olivia Newton-John",216906,1978-04-04,75,John Travolta,John Travolta, Olivia Newton-John,,
+13,Don't Go Breaking My Heart,2,5pKJtX4wBeby9qIfFhyOJj,"Elton John, Kiki Dee",271133,1990-11-08,58,Elton John,Elton John, Kiki Dee,131,75.0
+14,Total Eclipse of the Heart,2,7wuJGgpTNzbUyn26IOY6rj,Bonnie Tyler,267360,2009-03-26,86,Bonnie Tyler,Bonnie Tyler,,129,44.0
+15,Bye Bye Bye,2,62bOmKYxYg7dhrC6gH9vFn,*NSYNC,200400,2000-03-21,84,*NSYNC,*NSYNC,,172,61.0
+16,Girls Just Want to Have Fun,2,4y1LsJpmMti1PfRQV9AWWe,Cyndi Lauper,238120,1983-10-14,85,Cyndi Lauper,Cyndi Lauper,,123,71.0
+17,Africa,2,2374M0fQpWi3dLnB54qaLX,TOTO,295282,1982-04-08,91,TOTO,TOTO,,92,68.0
+18,You're The One That I Want - From “Grease”,2,0B9x2BRHqj3Qer7biM3pU3,"John Travolta, Olivia Newton-John",169840,1978-04-04,76,John Travolta,John Travolta, Olivia Newton-John,,
+19,Come On Eileen,2,3MrWxJaD2AT0W9DjWF64Vm,Dexys Midnight Runners,287306,1982-07-22,83,Dexys Midnight Runners,Dexys Midnight Runners,,108,45.0
+20,Someone Like You,2,4kflIGfjdZJW4ot2ioixTB,Adele,285040,2011-01-19,5,Adele,Adele,,67,56.0
+21,Dancing Queen,2,4NtUY5IGzHCaqfZemmAu56,ABBA,230693,1976,4,ABBA,ABBA,,99,54.0
+22,Mamma Mia,2,22NN4BS1AlqVbyKIWExgON,ABBA,215266,1975,2,ABBA,ABBA,,136,75.0
+23,A Thousand Miles,2,4w1lzcaoZ1IC2K5TwjalRP,Vanessa Carlton,237493,2002-04-30,84,Vanessa Carlton,Vanessa Carlton,,96,57.0
+24,My Boo,2,68vgtRHr7iZHpzGpon6Jlo,"USHER, Alicia Keys",223440,2004-03-23,83,USHER,USHER, Alicia Keys,,
+25,Oops!...I Did It Again,2,6naxalmIoLFWR0siv8dnQQ,Britney Spears,211160,2000-05-16,86,Britney Spears,Britney Spears,,,
+26,...Baby One More Time,2,3MjUtNVVq3C8Fn0MP3zhXa,Britney Spears,211066,1999-01-12,88,Britney Spears,Britney Spears,,92,76.0
+27,Lucky,2,0IktbUcnAGrvD03AWnz3Q8,"Jason Mraz, Colbie Caillat",189613,2008-05-01,76,Jason Mraz,Jason Mraz, Colbie Caillat,130,63.0
+28,The Boy Is Mine,2,6sHsXIJoEN5JpdkGMQDJxt,"Brandy, Monica",294786,1998-05-29,79,Brandy,Brandy, Monica,93,71.0
+29,Before He Cheats,2,0ZUo4YjG4saFnEJhdWp9Bt,Carrie Underwood,199939,2005-11-14,81,Carrie Underwood,Carrie Underwood,,147,52.0
+30,Bleeding Love,2,7LLouD7gdDYmmar1bfaF8V,Leona Lewis,262293,2007-10-21,48,Leona Lewis,Leona Lewis,,108,64.0
+31,Say My Name,2,7H6ev70Weq6DdpZyyTmUXk,Destiny's Child,271333,1999-07-27,84,Destiny's Child,Destiny's Child,,138,72.0
+32,Baby Got Back,2,1SAkL1mYNJlaqnBQxVZrRl,Sir Mix-A-Lot,262826,1992-01-01,75,Sir Mix-A-Lot,Sir Mix-A-Lot,,,
+33,Wonderwall - Remastered,2,7ygpwy2qP3NbrxVkHvUhXY,Oasis,258773,1995,84,Oasis,Oasis,,,
+34,Bohemian Rhapsody - Remastered 2011,2,7tFiyTwD0nx5a1eklYtX2J,Queen,354320,1975-11-21,79,Queen,Queen,,,
+35,Firework,2,4lCv7b86sLynZbXhfScfm2,Katy Perry,227880,2012-03-12,75,Katy Perry,Katy Perry,,123,64.0
+36,What Makes You Beautiful,2,4cluDES4hQEUhmXj6TXkSo,One Direction,199986,2012-05-25,89,One Direction,One Direction,,123,73.0
+37,You Oughta Know - 2015 Remaster,2,3jS7bB0oXVOwGFZn3aE5NV,Alanis Morissette,249493,1995,74,Alanis Morissette,Alanis Morissette,,,
+38,Rehab,2,1L5tZi0izXsi5Kk5OJf4W0,Amy Winehouse,213760,2006-10-27,76,Amy Winehouse,Amy Winehouse,,72,44.0
+39,Like a Virgin,2,1ZPlNanZsJSPK5h9YZZFbZ,Madonna,218626,1984-11-12,76,Madonna,Madonna,,117,78.0
+40,It's All Coming Back to Me Now,2,5EQzuYfTZt7B2LqlvTF49l,Céline Dion,456866,1996-03-11,79,Céline Dion,Céline Dion,,87,39.0
+41,Where Is The Love?,2,0xmjwnQ3FNE6HuWCt2nHdZ,Black Eyed Peas,272533,2003-06-24,86,Black Eyed Peas,Black Eyed Peas,,,
+42,Poker Face,2,5R8dQOPq8haW94K7mgERlO,Lady Gaga,237200,2008-01-01,83,Lady Gaga,Lady Gaga,,234,85.0
+43,Single Ladies (Put a Ring on It),2,70HKaNaUpcUqEqnKoKy6gl,Beyoncé,192906,2008,52,Beyoncé,Beyoncé,,,
